@@ -5,14 +5,13 @@ An all-in-one web-based order and inventory management system designed for baker
 https://zebo.et/SAD/index.php
 
 📸 Screenshots
-![Captu![Capturer2](https://github.com/user-attachments/assets/9d4636eb-d12d-4a64-8d28-77f3ad69a82c)
-rer1](https://github.com/u![Capturer4](https://github.com/user-attachments/assets/b7e641db-5839-48e3-9fda-f754a2ba0aec)
-ser-attachmen![Capturer5](https://github.com/user-attachments/assets/f4cc1981-132f-4371-baa9-45ad7fd04247)
-ts/assets/dd32516d-e867-401b-8abc-88b94dab9b6c)
-![Capturer6](https://github.com/user-attachments/assets/ce55fccf-27a0-4c19-a6b8-b3b1e3e12690)
+![Capturer1](https://github.com/user-attachments/assets/6c6be521-a34f-40ad-8366-edd63183c794)
+![Capturer2](https://github.com/user-attachments/assets/591abcec-dccf-48c3-ae20-b25d31cf6470)
+![Capturer4](https://github.com/user-attachments/assets/ff9b9a25-486d-4cef-815d-4b3d7625066d)
+![Capturer5](https://github.com/user-attachments/assets/3c2ca5db-548f-49b7-9189-fef3e37d799a)
+![Capturer6](https://github.com/user-attachments/assets/84947978-4638-4886-bc7f-395793a58696)
 
-
-🚀 Features![Uploading Capturer6.PNG…]()
+🚀 Features!
 
 🧁 Customer Side
 Browse and place cupcake orders online
