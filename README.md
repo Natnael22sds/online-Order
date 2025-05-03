@@ -5,8 +5,8 @@ A complete web-based **Cupcake Order Management System** built for bakeries and 
 ---
 
 ## 🌐 Live Preview
+[👉 View it live here](https://zebo.et/SAD/index.php)
 
-https://zebo.et/SAD/index.php
 ---
 
 ## 🎯 Features
@@ -126,5 +126,12 @@ sarahs-cupcake-system/
 │   ├── js/                       # JavaScript files
 │   └── images/                   # Product and UI images
 └── README.md                     # Project documentation
+```
+
+👨‍💻 Author
+Natnael22sds
+[GitHub profile]( https://github.com/Natnael22sds)
+
+
 
 
